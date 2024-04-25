@@ -1,6 +1,6 @@
 # Cluster - Kmeans
-In this project I applied machine learning algorithm to the country_data.csv dataset.This dataset contains information about a countries child mortality, exports, health
-spending, etc.Use clustering to investigate this data set, analyse the results and discuss what can be concluded by the clusters.
+In this project I applied machine learning algorithm to the country_data.csv dataset. This dataset contains information about a countries child mortality, exports, health
+spending, etc. I used clustering to investigate the dataset, analyse the results and discuss what can be concluded by the clusters.
 
 ## Introduction 
 While carrying out this task , I imported the necessary libraries including scikit- learn library for KMeans and imported the country dataset .I carried out some pre-processing steps just to make sure the data was ready to analyse.
